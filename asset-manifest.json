@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.fa2c976f.css",
-    "main.js": "/developerFolio/static/js/main.e8530d60.js",
+    "main.js": "/developerFolio/static/js/main.8dc77977.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
@@ -18,11 +18,10 @@
     "static/media/pbi.webp": "/developerFolio/static/media/pbi.3c44125076816f583a83.webp",
     "static/media/ibm.webp": "/developerFolio/static/media/ibm.2ea86efae9c1bad559ea.webp",
     "static/media/springer.webp": "/developerFolio/static/media/springer.cf27e225cfad89676f2f.webp",
-    "static/media/resume.pdf": "/developerFolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.fa2c976f.css.map": "/developerFolio/static/css/main.fa2c976f.css.map",
-    "main.e8530d60.js.map": "/developerFolio/static/js/main.e8530d60.js.map",
+    "main.8dc77977.js.map": "/developerFolio/static/js/main.8dc77977.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.fa2c976f.css",
-    "static/js/main.e8530d60.js"
+    "static/js/main.8dc77977.js"
   ]
 }
